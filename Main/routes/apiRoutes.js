@@ -1,5 +1,5 @@
 const router = require('express').Router();
-
+const log = require('../db/log');
 
 router.get('/', (req, res) => {
 //need to get the note and return it in json and catch any errors
