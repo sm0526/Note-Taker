@@ -18,8 +18,11 @@ node server.js
 
 #### Screenshot 
 
-![Screenshot of program in action]
+![2022-12-01](https://user-images.githubusercontent.com/105896063/205195737-8f13982f-a5f1-4f4d-a3a3-6d3a7892ce03.png)
 
+![2022-12-01 (1)](https://user-images.githubusercontent.com/105896063/205195757-9c4137b4-fa82-4503-b23a-a348a2b1b73e.png)
+
+![2022-12-01 (2)](https://user-images.githubusercontent.com/105896063/205195776-c2ae19e5-86d2-41aa-913f-3e813a846bce.png)
 
 ## Credits
 
